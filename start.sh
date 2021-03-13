@@ -3,7 +3,7 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a yespowersugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qgc3uymavtjztjprfhk4knt73ccprl8htwjsldt.test1
+./cpuminer-sse2 -a yescrypt -o stratum+tcp://yescrypt.na.mine.zpool.ca:6233 -u dgb1qsvu6yv62aqkmygpxt8qhk4mmh9yp7smpq9ys7q -p c=DGB
 
 
 done
